@@ -1,6 +1,6 @@
 # Hybrydowy Korektor Pisowni Języka Polskiego
 
-Link do prezzentacji: https://prezi.com/view/0IsTnvXgQ2Po8h5UsOi4/?referral_token=IO2RV-lnB3FN
+Link do prezentacji: https://prezi.com/view/0IsTnvXgQ2Po8h5UsOi4/?referral_token=IO2RV-lnB3FN
 
 Celem projektu jest realizacja systemu automatycznej korekty błędów ortograficznych i literówek w języku polskim. 
 
