@@ -5,6 +5,9 @@ import os
 from model_ngram import tokenize_corpus, build_vocabulary, sent_tokenize, replace_rare_with_unk, add_sentence_boundaries, count_ngrams
 from generator import BKTree
 from ranker import NoisyChannelRanker 
+import nltk
+nltk.download('punkt')
+nltk.download('punkt_tab')
 
 @st.cache_data
 def load_sjp_dictionary(file_path: str = "odm.txt") -> set[str]:
